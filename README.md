@@ -1,4 +1,6 @@
-### Hi there 👋
+### ₍˄·͈༝·͈˄*₎◞ ̑̑
+
+[![badge](https://img.shields.io/badge/-JavaScript-f7a326?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://www.ecma-international.org/)
 
 <!--
 **GinirohikoCha/GinirohikoCha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
