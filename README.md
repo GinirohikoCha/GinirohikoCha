@@ -28,7 +28,7 @@
 [![SurrealDB](https://img.shields.io/badge/-SurrealDB-ff009e?style=flat-square&logo=SurrealDB&logoColor=white)](https://surrealdb.com/)
 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://www.raspberrypi.com/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white)](https://ubuntu.com/)
 [![TrueNas](https://img.shields.io/badge/-TrueNas-0095D5?style=flat-square&logo=TrueNas&logoColor=white)](https://www.truenas.com/)
 
