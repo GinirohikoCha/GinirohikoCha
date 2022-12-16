@@ -33,6 +33,7 @@
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/)
 [![TrueNas](https://img.shields.io/badge/-TrueNas-0095D5?style=flat-square&logo=TrueNas&logoColor=white)](https://www.truenas.com/)
+[![Minecraft](https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=Minecraft&logoColor=white)](https://www.minecraft.net/)
 
 
 <!--
