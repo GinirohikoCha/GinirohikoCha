@@ -40,4 +40,4 @@
 [![Minecraft](https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=Minecraft&logoColor=white)](https://www.minecraft.net/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GinirohikoCha&layout=compact)](https://github.com/GinirohikoCha)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GinirohikoCha&layout=compact)](https://github.com/GinirohikoCha)
