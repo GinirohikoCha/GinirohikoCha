@@ -12,6 +12,7 @@
 [![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=Vue.js&logoColor=white)](https://vuejs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
 [![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)](https://spring.io/projects/spring-boot/)
+[![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)]([https://spring.io/projects/spring-boot/](https://hibernate.org/))
 
 2. Mobile / Desktop Development
 
