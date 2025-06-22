@@ -40,7 +40,7 @@
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/)
 [![TrueNas](https://img.shields.io/badge/-TrueNas-0095D5?style=flat-square&logo=TrueNas&logoColor=white)](https://www.truenas.com/)
-[![Minecraft](https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAAXNSR0IArs4c6QAAAOpJREFUSEvlVsENAjEM800CTAJMcjAJMAkwCcckwCbUEkFWRMW1RBWC/K5q49hx0+vQILoGGFCQKYAewCoAeACwS7muzKUg+yAAq/EAYO1BLgDIJirIYvYVIFsAZ6G1AbCQb9PdlqgCJbcYxWSZkjKRhe/ZU/PHBhZw+l8QyqFBjW+yMHFuZE+0Z6N64q1MzyswL6022u8vAmFiHqDT1Ag2IVi9Mihyl232DHzFOUZFTH4PhLrrbKMc7FGoXLkbHwJiMyw3u+bJCdzzkYVrR3+Ru0JBmryMdI7XvZYFp8Tx1Rtfm/DtuSa/RHeZ21caM87UpwAAAABJRU5ErkJggg==&logoColor=white)](https://www.minecraft.net/)
+[![Minecraft](https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAAXNSR0IArs4c6QAAAPNJREFUSEvlVsERwjAMkyYBJgEmASYBJqFMQpkEmMQgjvSMuXJNyfU48C9talmy4pQYIDgABhoQMxsDWABYFgCuAWxJnpXLg+wKAaQaK5KrCHICIDal4kxy8hUgGwBHR2sNYObWd93dWipI8hSdmMxJKtE9zCz2rNH88V4FHP4XpAo2k+cv7tkouFE98T3r1JNo5RXJBtjMdGh9o+P+LBAlFotjMEKaEKreM8hyV9r8xCCW+4ZRFpMfAzEz6e5nm+Soi8rVduJLgaQZ1ja7pjczaM9HFu47+rPcVRRkkJtRzom692WhKbF/ueP7Zuvy3SC/RFcCTMMadmWqBwAAAABJRU5ErkJggg==&logoColor=white)](https://www.minecraft.net/)
 
 
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GinirohikoCha&layout=compact)](https://github.com/GinirohikoCha)
